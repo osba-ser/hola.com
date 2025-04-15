@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "e29ae270-2779-3c2c-9b70-04f94aa8e23e",
+    "name": "osba",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

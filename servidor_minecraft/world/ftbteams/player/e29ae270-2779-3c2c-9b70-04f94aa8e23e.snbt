@@ -8,7 +8,7 @@
 	properties: {
 		"ftbteams:display_name": "osba"
 		"ftbteams:description": ""
-		"ftbteams:color": "#C3FF59"
+		"ftbteams:color": "#C5FF59"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 	}

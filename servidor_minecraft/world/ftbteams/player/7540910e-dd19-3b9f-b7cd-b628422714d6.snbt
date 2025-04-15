@@ -1,0 +1,17 @@
+{
+	id: "7540910e-dd19-3b9f-b7cd-b628422714d6"
+	type: "player"
+	player_name: "manu"
+	ranks: {
+		7540910e-dd19-3b9f-b7cd-b628422714d6: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "manu"
+		"ftbteams:description": ""
+		"ftbteams:color": "#D159FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
